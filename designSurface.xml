@@ -1,0 +1,13 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/twontwo_site/app/src/main/res/drawable/abc_btn_check_material.xml" value="0.22708333333333333" />
+        <entry key="..\:/twontwo_site/app/src/main/res/layout/abc_action_bar_title_item.xml" value="0.21197916666666666" />
+        <entry key="..\:/twontwo_site/app/src/main/res/layout/abc_action_bar_up_container.xml" value="0.21197916666666666" />
+        <entry key="..\:/twontwo_site/app/src/main/res/layout/abc_action_bar_view_list_nav_layout.xml" value="0.21197916666666666" />
+        <entry key="..\:/twontwo_site/app/src/main/res/layout/abc_activity_chooser_view.xml" value="0.21197916666666666" />
+      </map>
+    </option>
+  </component>
+</application>
