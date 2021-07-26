@@ -2,7 +2,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/activity_main.xml" value="0.1175925925925926" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout-sw600dp-v13/layout_snackbar.xml" value="0.148046875" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout-v17/abc_search_view.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout-v21/abc_screen_toolbar.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/activity_intro.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/activity_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/activity_main_frame.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/activity_maps.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/activity_my_profile.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/activity_popup_market_price.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/activity_recommend_retailshop_list.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/layout_snackbar.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/rs_navigation_drawer.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/select_dialog_item_material.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/select_dialog_multichoice_material.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/support_simple_spinner_dropdown_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/Android_Project/GoldMagicShop/app/src/main/res/layout/ws_navigation_drawer.xml" value="0.19739583333333333" />
         <entry key="..\:/Android_Project/Goldmagic/app/src/main/res/drawable/btn_arr_left.xml" value="0.1" />
         <entry key="..\:/Android_Project/Goldmagic/app/src/main/res/drawable/white_radius.xml" value="0.1" />
         <entry key="..\:/Android_Project/Goldmagic/app/src/main/res/layout/activity_intro.xml" value="0.1" />
